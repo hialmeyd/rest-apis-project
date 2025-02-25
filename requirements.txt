@@ -1,0 +1,11 @@
+flask
+flask-smorest
+python-dotenv
+sqlalchemy
+flask-sqlalchemy
+flask-jwt-extended
+passlib
+flask-migrate
+
+# docker build -t flask-smorest-api . #rest-apis-flask-python
+# docker run -dp 5000:5000 -w /app -v "/c/Users/User22/source/repos/REST-API:/app" flask-smorest-api #rest-apis-flask-python
